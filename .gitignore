@@ -1,0 +1,16 @@
+# Node modules (frontend)
+fitness-frontend/node_modules/
+
+# Build files (React)
+fitness-frontend/build/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Maven build files (backend)
+fitness-backend/target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
